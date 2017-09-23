@@ -1,9 +1,32 @@
-#popup {
-  display: none;
-  background-color: white;
-  padding: 0.5em;
-  width: 200px;
-  height: auto;
-  border: 4px solid #dfdfdf;
-  border-width: 0.2em;
+.highlight {
+  border-left-style: solid;
+  padding-left: 5px;
+}
+
+.wwwcolor {
+  border-left-color: #337dc3; /* #006699 */
+}
+
+.askcolor {
+  border-left-color: #47cf4a; /* #426746 */
+}
+
+.metatalkcolor {
+  border-left-color: #888888; /* #666666 */
+}
+
+.fanfarecolor {
+  border-left-color: #7C7299; /* #3C3453 */
+}
+
+.projectscolor {
+  border-left-color: #467777; /* #2D5A5A */
+}
+
+.musiccolor {
+  border-left-color: #666666; /* #333333 */
+}
+
+.podcastcolor {
+  border-left-color: #999999; /* #666666 */
 }
