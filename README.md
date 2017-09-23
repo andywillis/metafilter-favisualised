@@ -1,3 +1,5 @@
-# uws-metafilter-favouriteers
+# uws-metafilter-favourites-visualised
 
-Update of Michael Devore's [Howls Of Outrage](https://greasyfork.org/en/scripts/5439-howlsofoutrage) Greasemonkey script to add a mouseover popup of favouriteers to each post comment on Metafilter.
+Update of Jordan Reiter's [Metafilter MultiFavorited Multiwidth](http://userscripts-mirror.org/scripts/review/18788) Greasemonkey script to add a visual cue to post comments on Metafilter.
+
+This version includes all the subsites that include comments, and not just Mefi, Ask, and Talk.
