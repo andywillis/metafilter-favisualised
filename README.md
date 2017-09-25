@@ -1,4 +1,4 @@
-# metafilter-favvisualised
+# metafilter-favisualised
 
 Unofficial Metafilter web-extension.
 
