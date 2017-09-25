@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "uws-metafilter-favourites-visualised",
+  "name": "metafilter-favisualised",
   "version": "1.0",
   "description": "Adds visual cues to show favourites for each Metafilter post comment.",
   "icons": {

@@ -1,12 +1,13 @@
 {
-  "name": "uws-metafilter-favouriteers",
+  "name": "metafilter-favisualised",
   "version": "1.0.0",
-  "description": "Simple extension to make Stackoverflow easier to use.",
+  "description": "Show a visual cue for favourites on Metafilter posts.",
   "author": "Andy Willis",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^4.6.0",
     "eslint-config-airbnb-base": "^12.0.0",
-    "eslint-plugin-import": "^2.7.0"
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-no-unsanitized": "^2.0.1"
   }
 }
