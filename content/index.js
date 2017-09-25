@@ -13,6 +13,8 @@
     return link ? link.textContent.match(/^\d+/)[0] : 0;
   }
 
+  const webextName = 'favisualised';
+
   function getSite() {
     return document.location.host.split('.')[0];
   }
@@ -26,7 +28,7 @@
 
   function showVisualCue(comment, favouriteTotal, site) {
     const width = ((favouriteTotal / 2) + 1);
-    comment.classList.add('highlight', `${site}color`);
+    comment.classList.add('highlight', `${site}color_${webextName}`);
     comment.style.borderLeftWidth = `${width}px`;
     comment.style.marginLeft = `${70 - width}px`;
   }
