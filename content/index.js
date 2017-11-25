@@ -27,7 +27,7 @@
   }
 
   function showVisualCue(comment, favouriteTotal, site) {
-    const width = ((favouriteTotal / 2) + 1);
+    const width = ((favouriteTotal / 4) + 1);
     comment.classList.add('highlight', `${site}color_${webextName}`);
     comment.style.borderLeftWidth = `${width}px`;
     comment.style.marginLeft = `${70 - width}px`;
